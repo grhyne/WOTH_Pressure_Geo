@@ -1,0 +1,8 @@
+"0","tag <- geopressuretemplate_tag(id, quiet = F)"
+"2","G2;H2;Warningh: [38;5;252m[33m![38;5;252m Multiple files matching `*.lux`: ]8;;file://C:/Users/Garrett Rhyne/Documents/GitHub/WOTH_Pressure_Geo/./data/raw-tag/CV019/CV019_23May25_142518.lux[34m./data/raw-tag/CV019/CV019_23May25_142518.lux[38;5;252m]8;; and
+  ]8;;file://C:/Users/Garrett Rhyne/Documents/GitHub/WOTH_Pressure_Geo/./data/raw-tag/CV019/CV019_23May25_142518driftadj.lux[34m./data/raw-tag/CV019/CV019_23May25_142518driftadj.lux[38;5;252m]8;;
+→ The function will continue with the first one.[39mg
+"
+"2","G2;H2;Warningh: [38;5;252mThere are potentially not yet pressure data on the Google Earth Engine server for the latest stationary
+period. Please allow for around 3 months before the data becomes available.[39mg
+"

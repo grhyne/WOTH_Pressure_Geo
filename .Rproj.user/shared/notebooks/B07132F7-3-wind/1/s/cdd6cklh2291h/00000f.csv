@@ -1,0 +1,47 @@
+"0","graph <- graph_create("
+"0","  tag,"
+"0","  thr_likelihood = config::get(""graph_create"", id)$thr_likelihood,"
+"0","  thr_gs = config::get(""graph_create"", id)$thr_gs"
+"0",")"
+"2","G3;[36mℹ[39m Check data inputg"
+"2","G3;[32m✔[39m Check data input [38;5;249m[272ms][39mg"
+"2","G3;
+g"
+"2","G3;[36mℹ[39m Create graph from mapsg"
+"2","G3;Registered S3 methods overwritten by 'htmltools':
+  method               from         
+  print.html           tools:rstudio
+  print.shiny.tag      tools:rstudio
+  print.shiny.tag.list tools:rstudio
+g"
+"2","G3;Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+g"
+"2","G3;[32m✔[39m Create graph from maps [38;5;249m[918ms][39mg"
+"2","G3;
+g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 0/11 (0% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 1/11 (34% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 2/11 (53% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 3/11 (72% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 4/11 (87% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 5/11 (92% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 6/11 (96% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 7/11 (98% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 8/11 (99% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 9/11 (100% of nodes)g"
+"2","G3;[36mℹ[39m Compute the groundspeed for stationary period 11/11 (100% of nodes)g"
+"2","G3;[32m✔[39m Compute the groundspeed [38;5;249m[9.9s][39m                                     g"
+"2","G3;
+g"
+"2","G3;[36mℹ[39m Prune the graph 0/20 g"
+"2","G3;[36mℹ[39m Prune the graph 12/20 g"
+"2","G3;[36mℹ[39m Prune the graph 20/20 g"
+"2","G3;[32m✔[39m Prune the graph [38;5;249m[941ms][39mg"
+"2","G3;
+g"
+"2","G3;[36mℹ[39m Format graph outputg"
+"2","G3;[32m✔[39m Format graph output [38;5;249m[2.9s][39mg"
+"2","G3;
+g"

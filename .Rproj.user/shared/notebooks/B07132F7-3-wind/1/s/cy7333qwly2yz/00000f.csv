@@ -1,0 +1,3 @@
+"0","graph <- graph_set_movement(graph,"
+"0","  bird = bird_create(config::get(""bird_create"", id)$scientific_name)"
+"0",")"

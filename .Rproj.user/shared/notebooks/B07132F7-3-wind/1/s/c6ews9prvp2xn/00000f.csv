@@ -1,0 +1,7 @@
+"0","save(tag,"
+"0","  graph, # format(object.size(graph), units = ""MB"")"
+"0","  path_most_likely,"
+"0","  path_simulation,"
+"0","  marginal,"
+"0","  file = ""./data/interim/CV019.RData"""
+"0",")"

@@ -1,0 +1,17 @@
+"0","plot(tag, type = ""pressure"")
+"
+"2","G2;H2;Warningh: [38;5;252mThere are potentially not yet pressure data on the Google Earth Engine server for the latest stationary period. Please allow for around 3 months before the
+data becomes available.[39mg
+"
+"2","G3;
+g"
+"2","G3;── Pre-processed pressure data length 
+g"
+"2","G3;[33m![39m There are only [34m8[39m datapoints for the stationary period [34m9[39m
+g"
+"2","G3;
+g"
+"2","G3;── Pressure difference 
+g"
+"2","G3;[32m✔[39m All hourly changes in pressure are below [34m3[39m hPa.
+g"

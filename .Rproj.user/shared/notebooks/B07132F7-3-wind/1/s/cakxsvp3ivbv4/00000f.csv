@@ -1,0 +1,18 @@
+"0","graph <- graph_add_wind("
+"0","  graph,"
+"0","  pressure = tag$pressure,"
+"0","  thr_as = config::get(""graph_add_wind"", id)$thr_as"
+"0",")"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  1/11 [32m■                               [39m   0% | ETA: 24…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  2/11 [32m■■■■■■■■■                       [39m  27% | ETA:  6…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  3/11 [32m■■■■■■■■■■■■                    [39m  35% | ETA:  5…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  4/11 [32m■■■■■■■■■■■■■                   [39m  41% | ETA:  4…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  5/11 [32m■■■■■■■■■■■■■■                  [39m  42% | ETA:  4…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  6/11 [32m■■■■■■■■■■■■■■                  [39m  44% | ETA:  4…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  7/11 [32m■■■■■■■■■■■■■■■                 [39m  46% | ETA:  4…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  8/11 [32m■■■■■■■■■■■■■■■■■■              [39m  56% | ETA:  4…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  9/11 [32m■■■■■■■■■■■■■■■■■■■■■■■■■■      [39m  82% | ETA:  1…g"
+"2","G3;[34mℹ[39m Compute wind speed for edges of stationary period:  10/11 [32m■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ [39m 100% | ETA:  …g"
+"2","G3;[32m✔[39m Compute wind speed for edges of stationary periods [37m[7.3s][39m                                                g"
+"2","G3;
+g"

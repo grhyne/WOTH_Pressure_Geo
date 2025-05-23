@@ -1,0 +1,28 @@
+{
+    "id": "9C78E1FE",
+    "path": "~/GitHub/WOTH_Pressure_Geo/analysis/1-label.qmd",
+    "project_path": "analysis/1-label.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1748032196889.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "82,0",
+        "scrollLine": "63",
+        "last_setup_crc32": "89416a743898a1da"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1748027761,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1748032208276,
+    "read_only": false,
+    "read_only_alternatives": []
+}
